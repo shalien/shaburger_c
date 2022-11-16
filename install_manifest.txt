@@ -1,0 +1,3 @@
+/usr/local/lib/libshaburger.a
+/usr/local/include/shaburger.h
+/usr/local/share/pkgconfig/shaburger.pc
